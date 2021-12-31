@@ -46,7 +46,7 @@ function H() {
 }
 
 function I() {
-    modal('爱你。么么哒！', J)
+    modal('爱你，么么哒！', J)
 }
 
 function J() {
